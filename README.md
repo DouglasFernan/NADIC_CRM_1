@@ -10,7 +10,11 @@ Git instalado
 
 ## Passo 1: Clonar o Repositório
 
-Abra o Visual Studio Code ou outra IDE de sua preferência e navegue até a pasta em seu computador onde deseja instalar o projeto. Em seguida, execute o seguinte comando no terminal:  
+Abra o Visual Studio Code ou outra IDE de sua preferência e navegue até a pasta em seu computador onde deseja instalar o projeto. Em seguida, execute os seguintes comandos no terminal:  
+
+`git init`
+
+E em seguida:
 
 `git clone https://github.com/DouglasFernan/NADIC_CRM_1`
 
